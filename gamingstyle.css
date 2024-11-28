@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gaming Hub - BGMI & Free Fire</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Navigation Bar -->
+    <header>
+        <nav>
+            <div class="logo">
+                <h1>Gaming Hub</h1>
+            </div>
+            <ul>
+                <li><a href="#bgmi">BGMI</a></li>
+                <li><a href="#freefire">Free Fire</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- BGMI Section -->
+    <section id="bgmi" class="game-section">
+        <div class="game-info">
+            <h2>BGMI - Battlegrounds Mobile India</h2>
+            <p>BGMI is a popular battle royale game that brings intense competition and strategic gameplay for mobile gamers in India.</p>
+            <img src="https://tse4.mm.bing.net/th?id=OIP.mJwaHlZlXsrQVz04lZhQMQHaDt&pid=Api&P=0&h=180" alt="BGMI Game">
+        </div>
+    </section>
+
+    <!-- Free Fire Section -->
+    <section id="freefire" class="game-section">
+        <div class="game-info">
+            <h2>Free Fire</h2>
+            <p>Free Fire is an action-packed survival shooter game with fast-paced gameplay and exciting game modes.</p>
+            <img src="https://tse4.mm.bing.net/th?id=OIP.JfNdlwKPrz_pQYu9ud1pNQHaEK&pid=Api&P=0&h=180" alt="Free Fire Game">
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <footer id="contact">
+        <div class="contact-info">
+            <h3>Contact Us</h3>
+            <p>Email: gaminghub@example.com</p>
+            <p>Follow us on social media for the latest updates on games!</p>
+        </div>
+    </footer>
+</body>
+</html>
